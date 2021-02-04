@@ -1,0 +1,40 @@
+.big-pink-box {
+    width: 517px;
+    height: 517px;
+    border: 6px solid hotpink;
+}
+
+.far-right-no-border {
+    width: 125px;
+    height: 125px;
+    background-color: rgb(87, 212, 87);
+    margin-left: 392px;
+    margin-right: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px:
+}
+
+.middle-right-border {
+    width: 122px;
+    height: 122px;
+    background-color: rgb(87, 212, 87);
+    border: 6px solid gray;
+    margin: 0px 0px 0px 257px;
+}
+
+.middle-left-no-border {
+    width: 125px;
+    height: 125px;
+    background-color: rgb(87, 212, 87);
+    margin: 0px 0px 0px 133px;
+
+}
+
+.far-left-border {
+    width: 122px;
+    height: 122px;
+    background-color: rgb(87, 212, 87);
+    border: 6px solid gray;
+    margin: 
+
+}
